@@ -1,5 +1,5 @@
 #Agile Requirements Tool
-### This open source tool helps generate Acceptance Test Case inputs
+### This open source tool helps generate Acceptance Test Case inputs for SBE based S/W development
 ####Unique features include 
 1. Generate names, generating unique addresses, birthdays, age and other demographic information
 2. Custom user data generation with a Reverse Reg-Exp generator
